@@ -1,3 +1,5 @@
 Lista de comandos
 
-git clone: < su función es conectar la carpeta en la plataforma de repositorio remoto,con su contenido a git hub>
+1.git clone: < su función es conectar la carpeta en la plataforma de repositorio remoto,con su contenido a git hub>
+
+2.Git commit:< función paraagregar uncambio al repositorio con un comentario o nombre especififcando=commit-m "NOMBRECAMBIO">
