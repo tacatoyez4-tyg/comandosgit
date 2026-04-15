@@ -1,0 +1,3 @@
+Lista de comandos
+
+git clone: < su función es conectar la carpeta en la plataforma de repositorio remoto,con su contenido a git hub>
