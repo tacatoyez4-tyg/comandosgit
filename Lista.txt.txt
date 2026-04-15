@@ -3,3 +3,7 @@ Lista de comandos
 1.git clone: < su función es conectar la carpeta en la plataforma de repositorio remoto,con su contenido a git hub>
 
 2.Git commit:< función paraagregar uncambio al repositorio con un comentario o nombre especififcando=commit-m "NOMBRECAMBIO">
+
+3.Git push:< comando para subir la versión final al repositorio>
+4.Git status:<comando muestra el estado del archivo carpeta en uso,ejemplo muestra sean archivos en unstaged >
+5.Git add:<comando para añadir archivos-cambios a una versión previa antes de ser subido al repositorio>
